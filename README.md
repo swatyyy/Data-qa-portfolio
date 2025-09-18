@@ -1,2 +1,2 @@
 # Data-qa-portfolio
-data-qa-portfolio
+Showcase data validation + Python + PowerBI projects.
